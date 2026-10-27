@@ -1,0 +1,6 @@
+pixeltable[serve]>=0.7.21
+httpx
+pymupdf
+openai>=1
+mistune>=3
+tiktoken

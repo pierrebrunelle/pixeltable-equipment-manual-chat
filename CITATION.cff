@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "equipment manuals API built with Pixeltable"
+abstract: "Chat-with-your-PDFs API for equipment manuals: upload PDF or Markdown manuals, page-aware chunking, an embedding index, and cited gpt-4o-mini answers from one FastAPIRouter."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-equipment-manual-chat"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-10-27
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "rest-api"
+  - "rag"
+  - "chat-with-pdf"
+  - "embeddings"
+  - "document-chunking"
+  - "openapi"
+  - "concurrency"
