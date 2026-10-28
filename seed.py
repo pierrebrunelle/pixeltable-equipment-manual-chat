@@ -5,7 +5,7 @@ gpt-4o-mini call.
 
     python make_manuals.py    # writes data/manuals/
     python seed.py            # local catalog 'manuals'
-    python seed.py pxt://<your-org>:<your-db>/manuals
+    python seed.py pxt://<your-org>:<your-db>
 """
 
 from __future__ import annotations
